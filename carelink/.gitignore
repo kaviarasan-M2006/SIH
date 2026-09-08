@@ -1,0 +1,7 @@
+git commit -m "Initial Care-Link AI prototype"node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+dist/
+firebase-service-account.json
