@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000"
+const BASE_URL = "https://carelink-ai-w5zr.onrender.com";
 function getToken() {
   return localStorage.getItem("carelink_token")
 }
